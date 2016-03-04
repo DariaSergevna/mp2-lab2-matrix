@@ -1,0 +1,17 @@
+﻿Сборка начата 26.12.2015 13:42:36.
+     1>Проект "C:\Users\Дарья\Desktop\mp2-lab2-matrix (+)\sln\vc10\sample_utmatrix.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (gtest.vcxproj, test_utmatrix.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /I../../include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\samples\sample_matrix.cpp
+         sample_matrix.cpp
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Дарья\Desktop\mp2-lab2-matrix (+)\sln\vc10\Release\sample_utmatrix.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Дарья\Desktop\mp2-lab2-matrix (+)\sln\vc10\Release\sample_utmatrix.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Дарья\Desktop\mp2-lab2-matrix (+)\sln\vc10\Release\sample_utmatrix.lib" /MACHINE:X86 /SAFESEH Release\sample_matrix.obj
+         Создание кода
+         All 39 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Создание кода завершено
+         sample_utmatrix.vcxproj -> C:\Users\Дарья\Desktop\mp2-lab2-matrix (+)\sln\vc10\Release\sample_utmatrix.exe
+     1>Сборка проекта "C:\Users\Дарья\Desktop\mp2-lab2-matrix (+)\sln\vc10\sample_utmatrix.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:21.66

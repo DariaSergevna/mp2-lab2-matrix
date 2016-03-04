@@ -1,0 +1,14 @@
+﻿Сборка начата 26.12.2015 0:48:33.
+     1>Проект "C:\Users\Дарья\Desktop\mp2-lab2-matrix (+)\sln\vc10\gtest.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (sample_utmatrix.vcxproj, test_utmatrix.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D GTEST_EXPORTS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\gtest.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\gtest\gtest-all.cc"
+         gtest-all.cc
+       Lib:
+         D:\Program Files (x86)\VC\bin\Lib.exe /OUT:"C:\Users\Дарья\Desktop\mp2-lab2-matrix (+)\sln\vc10\Release\gtest.lib" /NOLOGO /LTCG "Release\gtest-all.obj"
+         gtest.vcxproj -> C:\Users\Дарья\Desktop\mp2-lab2-matrix (+)\sln\vc10\Release\gtest.lib
+     1>Сборка проекта "C:\Users\Дарья\Desktop\mp2-lab2-matrix (+)\sln\vc10\gtest.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:11.18
